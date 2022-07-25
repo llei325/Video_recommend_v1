@@ -15,7 +15,7 @@ import scala.collection.mutable.ArrayBuffer
  * 2：待推荐主播等级>4
  * 3：待推荐主播最近1个月视频评级满足3B+或2A+(flag=1)
  * 4：待推荐主播的粉丝列表关注重合度>2
- * Created by xuwei
+ * Created by lei
  */
 object GetRecommendListScala {
   def main(args: Array[String]): Unit = {
