@@ -11,7 +11,7 @@ import org.slf4j.LoggerFactory
  * 把最近几次视频评级在3B+或2A+的主播，在neo4j中设置flag=1
  *
  * 注意：在执行程序之前需要先把flag=1的重置为0
- * Created by xuwei
+ * Created by lei
  */
 object UpdateVideoInfoScala {
   val logger = LoggerFactory.getLogger("UpdateVideoInfoScala")
