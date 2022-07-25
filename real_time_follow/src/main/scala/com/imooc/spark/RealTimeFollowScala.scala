@@ -10,7 +10,7 @@ import org.neo4j.driver.{AuthTokens, GraphDatabase, Transaction, TransactionWork
 /**
  * 任务2：
  * 实时维护粉丝关注数据
- * Created by xuwei
+ * Created by lei
  */
 object RealTimeFollowScala {
   def main(args: Array[String]): Unit = {
